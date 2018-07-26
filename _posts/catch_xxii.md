@@ -1,6 +1,9 @@
+---
+layout: post
+title: Rails 5.2 Credentials and Catch XXII
+---
+
 # Rails 5.2 'Credentials' and Catch XXII
-
-
 
 So the story went somehow like this: I was setting up a production
 environment for a Rails 5.2 application  we are just about
